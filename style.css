@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
-    --cor-de-fundo: #1E1E1E;
-    --verde: #c4166d;
+    --cor-de-fundo: #ce1997;
+    --verde: #c4166d83;
     --branco: #FFFFFF;
     --botao-ativo: #00f0dcec;
     --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(219, 15, 117, 0.3);
+    --texto-fundo: rgba(98, 95, 150, 0.3);
 }
 
 body {
@@ -126,3 +126,9 @@ body {
         border-radius: 0 40px 0 0;
     }
 }
+h2 {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
