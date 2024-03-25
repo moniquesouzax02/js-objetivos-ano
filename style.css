@@ -9,6 +9,8 @@
     --texto-fundo: rgba(131, 22, 141, 0.3);
 }
 
+h5 {color: blue; }
+
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
